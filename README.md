@@ -7,7 +7,7 @@ Static coming-soon website for mobile app launch.
 1. Push changes to this branch (or `main`) to trigger deployment.
 2. In GitHub, open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Source: GitHub Actions**.
-4. In the **Actions** tab, confirm the **Deploy static site to GitHub Pages** workflow completed successfully.
+4. In the **Actions** tab, confirm the **Deploy static content to Pages** workflow completed successfully.
 
 Your site will be available at:
 
